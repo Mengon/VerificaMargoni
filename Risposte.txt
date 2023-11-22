@@ -22,7 +22,17 @@ branch in cui ci si trova e i loro hashcode?
 - git reset --hard(codice hash della commit precedente)
 
 6)Scrivi due motivazioni per giustificare l’utilizzo di GIT
-Si utilizza GIT per ottimizzare il lavoro in caso si dovesse lavorare in un team ed
-è ottimo per la gestione di file.
+- Si utilizza GIT per ottimizzare il lavoro in caso si dovesse lavorare in un team ed
+ è ottimo per la gestione di file.
+
+7)Spiega la differenza tra git clone e git pull.
+- git clone serve per copiare una repository già creata in locale.
+ Perciò non servirà creare una nuova repository e nemmeno collegarla all'online(perché già fatto da git hub), 
+ quindi in caso di modifica si modificherà anche quella clonata.
+
+- Usa git pull per aggiornare un repository locale tramite la repository online corrispondente. 
+(mentre lavori localmente su main, esegui git pull per aggiornare la copia locale di main e aggiornare gli altri branch di tracciamento remoto. )
+
+Quindi la differenza sostanziale tra clone e pull è che clone permette di clonare la repository e collegarla direttamente all'origine invece pull permette di aggiornare delle modifiche o prendere un file dalla repository online e modificarlo
 
 
