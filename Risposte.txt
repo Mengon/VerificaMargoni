@@ -16,3 +16,9 @@ convenzione in GIT?
 branch in cui ci si trova e i loro hashcode?
 
 git log
+
+5)Scrivi il comando per effettuare il rollback ad una commit precedente
+
+-git reset --hard(codice hash della commit precedente)
+
+
