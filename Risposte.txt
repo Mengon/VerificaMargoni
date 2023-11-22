@@ -6,19 +6,23 @@ automaticamente con la repository online collegata?
 2)Qual è il nuovo nome standard del branch principale utilizzato come
 convenzione in GIT?
 
--Main
+- Main
 
 3)Come descriveresti il workflow dei comandi di GIT?
 
--git add --> git commit --> git pusg
+- git add --> git commit --> git push
 
 4)Qual è il comando da utilizzare per vedere l’elenco di tutte le commit del
 branch in cui ci si trova e i loro hashcode?
 
-git log
+ - git log
 
 5)Scrivi il comando per effettuare il rollback ad una commit precedente
 
--git reset --hard(codice hash della commit precedente)
+- git reset --hard(codice hash della commit precedente)
+
+6)Scrivi due motivazioni per giustificare l’utilizzo di GIT
+Si utilizza GIT per ottimizzare il lavoro in caso si dovesse lavorare in un team ed
+è ottimo per la gestione di file.
 
 
