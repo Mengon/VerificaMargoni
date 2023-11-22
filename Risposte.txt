@@ -35,4 +35,13 @@ branch in cui ci si trova e i loro hashcode?
 
 Quindi la differenza sostanziale tra clone e pull è che clone permette di clonare la repository e collegarla direttamente all'origine invece pull permette di aggiornare delle modifiche o prendere un file dalla repository online e modificarlo
 
+8)Descrivi cosa sono i rami di sviluppo in GIT (branches). Spiega inoltre come si
+creano, come ci si sposta in un ramo esistente, come si uniscono le modifiche
+di un ramo in un altro e come vedere il ramo corrente, attenendoti ai comandi
+visti in classe.
+
+- I rami di sviluppo detti anche branches sono delle diramazioni del ramo principale(main) dove noi possiamo effettuare delle modifiche ed in caso di errore e problemi vari non andiamo a danneggiare il ramo principale, per creare un nuovo branch si utilizza il
+comando git checkout -b (nome del branch) e le modifiche fatte su un branch secondario non sono visibili dal branch principale perciò si utilizza il comando git merge (nome branch da unire) in modo di unire il branch secondario al main in modo da
+rendere visibili le sue modifiche anche lì. Per spostarci da un ramo all'altro si usa cil comandi git checkout (nome del branch dove vogliamo andare) e se volessimo vedere il branch in cui siamosi utilizza il comando git status.
+
 
