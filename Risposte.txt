@@ -44,4 +44,9 @@ visti in classe.
 comando git checkout -b (nome del branch) e le modifiche fatte su un branch secondario non sono visibili dal branch principale perciò si utilizza il comando git merge (nome branch da unire) in modo di unire il branch secondario al main in modo da
 rendere visibili le sue modifiche anche lì. Per spostarci da un ramo all'altro si usa cil comandi git checkout (nome del branch dove vogliamo andare) e se volessimo vedere il branch in cui siamosi utilizza il comando git status.
 
+9)Spiega di cosa si occupa l’ingegneria del software
+- L' ingegneria dei software informatici si occupa dei processi produttivi e delle metodologie di sviluppo finalizzate alla realizzazione di sistemi software.
+ Si propone una serie di obiettivi legati all'evoluzione dello sviluppo del software sia da un punto di vista tecnologico che metodologico.
+Si occupa della creazione di software per clienti privati/aziende e si lavora in gruppo comandato dal project master.
+Il suo compito è quello di stabilire le tempistiche per il completamento di questo progetto, i problemi, e segnarsi eventuali eventi che si potrebbero verificare in modo da ricordarsi cosa fare in caso si dovesse verificare di nuovo quel problema.
 
