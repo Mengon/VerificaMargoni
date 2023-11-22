@@ -50,3 +50,32 @@ rendere visibili le sue modifiche anche lì. Per spostarci da un ramo all'altro 
 Si occupa della creazione di software per clienti privati/aziende e si lavora in gruppo comandato dal project master.
 Il suo compito è quello di stabilire le tempistiche per il completamento di questo progetto, i problemi, e segnarsi eventuali eventi che si potrebbero verificare in modo da ricordarsi cosa fare in caso si dovesse verificare di nuovo quel problema.
 
+10)Spiega cosa è il ciclo di vita del software e le fasi in cui si suddivide
+
+Il ciclo di vita di un software si divide in: ANALI,PROGETTAZIONE,REALIZZAZZIONE,AVVIO IN PRODUZIONE,MANUTENZIONE
+
+ANALISI:
+In questa fase il project manager(scelto dal team) deve valutare la fattibilità del progetto proposto, i costi e gli obbiettivi.
+e decidere se svolgere il progetto o rinunciarci perché non porterebbe nessun profitto; il project manager si basa su un triangolo di fattori composto da obbiettivi,costi e fattibilità
+loro 3 insieme stabiliscono la qualità del progetto.
+
+PROGETTAZIONE:
+Se il progetto passa il controllo(ANALISI) bisognadecidere la tabella di marcia che bisogna seguire per il completamento del progetto
+ e stabilire le varie fasi per la sua creazione, i compiti che ogni componente del team deve svolgere e il tempo nel quale deve svolgerlo, segnalare eventuali problematiche.
+
+REALIZZAZIONE:
+Dove il progetto viene consegnato a dei programmatori, i quali tramite il linguaggio più opportuno
+realizzeranno il progetto ed eseguiranno i vari test per poi consegnarlo all'utente
+
+AVVIO IN PRODUZIONE:
+Dove il programma viene consegnato all'utente e lo utilizza quanto vuole e quì si entra nella fase di
+
+MANUTENZIONE:
+questa fase dura per tutto il tempo nel quale il software viene utilizzato perché si potrebbero verificare problemi o imprevisti causati dalla mancato test di verifica,
+ci sono 3 tipi di manutenzione:
+Correttiva, questo tipo di manutenzione corregge un errore causatosi dall'utente o di problema non abbastanza testato
+Evolutiva, serve per aggiungere al software nuove funzionalità
+Adattiva,mutazioni in in base alle necessità ai protocolli o necessità dell'utente
+
+ 
+
